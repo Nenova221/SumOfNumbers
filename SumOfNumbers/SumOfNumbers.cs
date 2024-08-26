@@ -8,7 +8,7 @@ namespace SumOfNumbers
 {
     public class Sum
     {
-        public static int SumOfNumbers(int n, int[] numbers)
+        public static int SumOfNumbers(int n, int[] numbers, int expectedSum)
         {
             int sum = 0;
             for (int i = 0; i < n; i++)
