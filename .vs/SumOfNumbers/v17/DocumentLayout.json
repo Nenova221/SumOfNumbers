@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KalinA\\source\\repos\\SumOfNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15105A33-037C-4EDA-98F6-BC54213A7F73}|SumOfNumbers\\SumOfNumbers.csproj|c:\\users\\kalina\\source\\repos\\sumofnumbers\\sumofnumbers\\sumofnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15105A33-037C-4EDA-98F6-BC54213A7F73}|SumOfNumbers\\SumOfNumbers.csproj|solutionrelative:sumofnumbers\\sumofnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20519FDA-A7E9-4D1F-BB53-737B1D09F6C3}|SumOfNumbersTest\\SumOfNumbersTest.csproj|c:\\users\\kalina\\source\\repos\\sumofnumbers\\sumofnumberstest\\sumofnumberstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20519FDA-A7E9-4D1F-BB53-737B1D09F6C3}|SumOfNumbersTest\\SumOfNumbersTest.csproj|solutionrelative:sumofnumberstest\\sumofnumberstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumOfNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SumOfNumbers\\SumOfNumbers\\SumOfNumbers.cs",
+              "RelativeDocumentMoniker": "SumOfNumbers\\SumOfNumbers.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SumOfNumbers\\SumOfNumbers\\SumOfNumbers.cs",
+              "RelativeToolTip": "SumOfNumbers\\SumOfNumbers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:07:17.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumOfNumbersTest.cs",
+              "DocumentMoniker": "C:\\Users\\KalinA\\source\\repos\\SumOfNumbers\\SumOfNumbersTest\\SumOfNumbersTest.cs",
+              "RelativeDocumentMoniker": "SumOfNumbersTest\\SumOfNumbersTest.cs",
+              "ToolTip": "C:\\Users\\KalinA\\source\\repos\\SumOfNumbers\\SumOfNumbersTest\\SumOfNumbersTest.cs",
+              "RelativeToolTip": "SumOfNumbersTest\\SumOfNumbersTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:06:55.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
